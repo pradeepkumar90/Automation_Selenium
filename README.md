@@ -17,6 +17,10 @@ Automation performed for below functions with the given task:
 Execution steps:
 
 •	Import the project in Eclipse with selenium jar files, poi, poi-ooxml jar files.
+
 •	Right click the project and select Run As -> Java Application.
+
 •	All the actions will be performed mentioned above.
+
 •	Please increase the waiting time, if internet connection is slow.
+
